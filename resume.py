@@ -32,6 +32,9 @@ if __name__ == '__main__':
         #print(filename)
         with open(filename) as f:
             #ndjson: loading line by line
+            #error in raw_decode obj, end = self.scan_once(s, idx) ValueError: Expecting object:
+            #because missing a ] at the end of file
+            #sed -e "$ a\]" XYZ.json > xyz.json
             for cline, item in enumerate(json.load(f)):
                 rslt.parse(item)
 
