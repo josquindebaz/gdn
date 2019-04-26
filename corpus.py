@@ -38,7 +38,7 @@ def toP1(entry, filename):
         if r['questionId'] == 'UXVlc3Rpb246MTQ5':
             Q = r["questionTitle"]
             R = r["value"]
-            contentTXT += "%s.\r\n\r\n" % Q
+            #contentTXT += "%s.\r\n\r\n" % Q
             contentTXT += "%s\r\n.\r\n" % R 
 
         with open("corpus/%s.txt" % fn, "w") as F:
@@ -58,7 +58,7 @@ def toP1(entry, filename):
                 "",#dest 
                 date, 
                 radical,#support
-                "", #type support
+                "GDN", #type support
                 "", #obs
                 statut, #statut
                 entry['authorZipCode'],#loc
