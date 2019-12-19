@@ -1,0 +1,2803 @@
+2019-02-12 16:48:15.202725
+jsons/ORGANISATION_DE_LETAT_ET_DES_SERVICES_PUBLICS.json 40231 lignes
+jsons/LA_FISCALITE_ET_LES_DEPENSES_PUBLIQUES.json 64923 lignes
+jsons/LA_TRANSITION_ECOLOGIQUE.json 47287 lignes
+jsons/DEMOCRATIE_ET_CITOYENNETE.json 36551 lignes
+
+
+107 En qui faites-vous le plus confiance pour vous faire représenter dans la société et pourquoi ?
+   Taux réponse 79.8396804552 %
+	plus longue: 54571 caractères	1er quartile 25 | médiane 66 | 3e quartile 140
+
+Exemples (longueur mediane) :
+
+A celui que j'ai élu et que je peux révoquer à l’élection suivante
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A des personnes indépendantes de tout lobby et de leur propre égo.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A l’heure actuelle à personne hélas excepté certaines associations
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A moi,  trop de prise de décisions sans faire référence au citoyen
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Actuellement, j'ai perdu toute confiance dans les élus politiques…
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(395)	Personne
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(247)	Le maire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(245)	le maire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(243)	personne
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(188)	Maire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+108 En dehors des élus politiques, faut-il donner un rôle plus important aux associations et aux organisations syndicales et professionnelles ?
+   Taux réponse 84.1896476253 %
+	Oui
+	********************************************************** 17899 (58.164625 %)
+	Non
+	****************************************** 12874 (41.835375 %)
+
+
+109 Si oui, à quel type d'associations ou d'organisations ? Et avec quel rôle ?
+   Taux réponse 48.9412344058 %
+	plus longue: 11500 caractères	1er quartile 57 | médiane 111 | 3e quartile 201
+
+Exemples (longueur mediane) :
+
+A des associations qui n'ont pas pour seules but de recevoir des aides municipales sans autres perspectives !!!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Afin d'assurer une meilleure cohésion sociale mais l'Etat doit être en mesure de bien choisir ces associations.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Asso caritatives, anti-corruption, sur l'intégration des personnes handicapées, pour le droit des femmes etc...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Association de consommateurs, de contribuables, d’aide aux démunis. Pas les syndicats sous leur forme actuelle.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Association à but non lucratif et ONG environnementale, avec un droit de regard et de proposition sur les lois.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(92)	Syndicats
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(72)	syndicats
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(43)	les syndicats
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(37)	Les syndicats
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(36)	organisations syndicales
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+110 Que faudrait-il faire pour renouer le lien entre les citoyens et les élus qui les représentent ?
+   Taux réponse 79.6618516087 %
+	plus longue: 20239 caractères	1er quartile 69 | médiane 133 | 3e quartile 253
+
+Exemples (longueur mediane) :
+
+Aller par tous les moyens à la rencontre des citoyens. Trouver des moyens pour relancer le syndicalisme et le militantisme politique.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au niveau des communes, communautés de communes et départements, donner les moyens aux habitants de s’exprimer (email, en mairie, ...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir des élections démocratiques au sens du terme c est à dire, minimum 30% de proportionnelle et reconnaitre le vote blanc. Ou nul.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Baisser considérablement leur rémunération et faire en sorte que les élus ne soient pas des ''professionnels'' mais de réels citoyens
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Commencer par les respecter, les sans dents ou mains sale c'est pas tres gentil ! Mr Macron a t'il ente du les gaulois réfractaires ?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(44)	RIC
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(18)	plus de transparence
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(17)	Rendre le vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(16)	Plus de transparence
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(15)	rendre le vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+111 Le non-cumul des mandats instauré en 2017 pour les parlementaires (députés et sénateurs) est :
+   Taux réponse 86.495950974 %
+	Une bonne chose
+	**************************************************************************** 23935 (75.705339 %)
+	Une mauvaise chose
+	************** 4483 (14.179529 %)
+	Je ne sais pas
+	********** 3198 (10.115132 %)
+
+
+112 Pourquoi ?
+   Taux réponse 73.6375574524 %
+	plus longue: 5387 caractères	1er quartile 59 | médiane 102 | 3e quartile 173
+
+Exemples (longueur mediane) :
+
+"qui trop embrasse mal etreint"ou en clair se concentrer sur un nombres de responsabilités et si tenir
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Afin de ne pas multiplier les casquettes et de se concentrer sur un seul mandat (éviter l'absentéisme)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Assurer un plus grand renouvellement du personnel politique et une meilleure respiration démocratique.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avec le temps, le siège de parlementaire est trop "confortable" et nuit à l'efficacité de sa fonction.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Beaucoup moins de présence sur le terrain (par contre limiter les renumérations si cumul des mandats )
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(17)	On ne peut pas être au four et au moulin
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(9)	Renouvellement
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(9)	On ne peut pas être au four et au moulin.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(7)	Renouvellement de la classe politique
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(6)	La politique ne doit pas être un métier
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+113 Que faudrait-il faire pour mieux représenter les différentes sensibilités politiques ?
+   Taux réponse 72.2751149048 %
+	plus longue: 14277 caractères	1er quartile 32 | médiane 67 | 3e quartile 147
+
+Exemples (longueur mediane) :
+
+65 millions de citoyens portent toutes les sensibilités politiques.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Abolir toutes les lois portant atteintes à la liberté d'expression.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accepter une petite dose de proportionnelle à l'assemblée nationale
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accorder une représentation aux courants minoritaires significatifs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Adopter une dose de proportionnelle lors des élections législatives
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(307)	Proportionnelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(273)	proportionnelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(265)	la proportionnelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(250)	La proportionnelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(178)	Une dose de proportionnelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+114 Pensez-vous qu'il serait souhaitable de réduire le nombre d'élus (hors députés et sénateurs) ?
+   Taux réponse 83.2129568833 %
+	Oui
+	************************************************************************* 22354 (73.494214 %)
+	Non
+	*************************** 8062 (26.505786 %)
+
+
+115 Si oui, lesquels ?
+   Taux réponse 61.7941562705 %
+	plus longue: 9604 caractères	1er quartile 36 | médiane 78 | 3e quartile 159
+
+Exemples (longueur mediane) :
+
+36 000 communes c'est exagéré !Regrouper les petites donnerait plus de moyens.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A ce jour, l'inflation la plus importante est dans les Communautés de Communes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au niveau des élus "intermédiaires " intercommunaux, départementaux, régionaux
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est justement le nombre de députés, ministres et sénateurs qui doit diminuer
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Collectivités régionales, mais pourquoi exclure les députés et les sénateurs !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(186)	Tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(172)	tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(88)	Députés et sénateurs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(86)	Sénateurs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(85)	les deux
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+116 Que pensez-vous de la participation des citoyens aux élections et comment les inciter à y participer davantage ?
+   Taux réponse 78.105165244 %
+	plus longue: 7176 caractères	1er quartile 49 | médiane 103 | 3e quartile 201
+
+Exemples (longueur mediane) :
+
+A l image de la médiocrité des propositions politiques et des accointances des médis avec ces derniers.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est la qualité de la proposition politique et de son action qui pourra ramener les citoyens aux urnes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cela représente la défiance qu'on les citoyens vis à vis du monde politique et du gouffre les séparant.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Créer le vote électronique. Pour ceux qui n’ont pas de moyen électronique, vote électronique en mairie.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Dans certains pays il y a des amendes si on ne vote pas; au bout de trois non participation par exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(482)	Vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(458)	vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(418)	Rendre le vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(356)	rendre le vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(139)	Rendre le vote obligatoire.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+117 Faut-il prendre en compte le vote blanc ?
+   Taux réponse 85.894068724 %
+	Oui
+	*********************************************************************************** 25935 (82.606064 %)
+	Non
+	***************** 5461 (17.393936 %)
+
+
+118 Si oui, de quelle manière ?
+   Taux réponse 64.0785729919 %
+	plus longue: 8233 caractères	1er quartile 51 | médiane 93 | 3e quartile 163
+
+Exemples (longueur mediane) :
+
+,??? je ne sais pas,
+parce qu'à la fois ce n'est pas très "citoyen" de ne pas faire de choix,
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+50% + 1 voix des suffrages exprimés pour être élu, à condition de rendre le vote obligatoire.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A titre de participation et de signification. Mais on ne peut pas le comptabiliser autrement.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au delà d'un certain seuil, par exemple 20 pourcents l'élection est annulée. Il faut revoter.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au delà de 50% de vote blanc, il faudrait revenir au départ et avoir recours à un référendum.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(80)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(66)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(46)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(37)	en le comptabilisant
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(34)	En le comptabilisant
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+119 Que faudrait-il faire aujourd'hui pour mieux associer les citoyens aux grandes orientations et à la décision publique ? Comment mettre en place une démocratie plus participative ?
+   Taux réponse 76.6469687021 %
+	plus longue: 23379 caractères	1er quartile 54 | médiane 115 | 3e quartile 218
+
+Exemples (longueur mediane) :
+
+- Je pense qu'il faudrait continuer sur la lancée de ce "Grand Débat" pour remettre le couvert tous les 2 ou 3 ans.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+30% des votes pourraient être laissé directement aux citoyens qui voteraient via une plateforme internet sécurisée.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Assemblée citoyenne consultative sur tous sujets ou référendum d'initiative citoyenne sur les décisions importantes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avec ce type de votation il sera plus facile d'organiser des consultations et, exceptionnellement, des référendums.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avec des conseils de quartier dans les communes, un référendum sur la réduction du nombre de députés, de sénateurs.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(308)	RIC
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(163)	Référendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(119)	référendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(61)	referendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(49)	Ric
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+120 Faut-il faciliter le déclenchement du référendum d'initiative partagée (le RIP est organisé à l'initiative de membres du Parlement soutenu par une partie du corps électoral) qui est applicable depuis 2015 ?
+   Taux réponse 84.1841759685 %
+	Oui
+	***************************************************** 16400 (53.296935 %)
+	Non
+	*************************** 8159 (26.515225 %)
+	Je ne sais pas
+	******************** 6212 (20.187839 %)
+
+
+121 Si oui, comment ?
+   Taux réponse 44.7690960823 %
+	plus longue: 6434 caractères	1er quartile 47 | médiane 90 | 3e quartile 170
+
+Exemples (longueur mediane) :
+
+1 fois par an ,Pour les projets annuels de l'état le faire pour plusieurs thèmes à la fois
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+1 ou 2 réfèrendum par quiquennat avec questions multiples pour eviter l'effet plebiscite .
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A l'aide d'un portail internet sécurisé, ou autre moyen à distance (Téléphone par exemple)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Abaisser le seuil de déclenchement à 60 députés ou 60 sénateurs et 2 millions de citoyens.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Absolument. C'est ce qu'a demandé le PS, à propos de l'ISF, en respectant la Constitution;
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(61)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(54)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(52)	RIC
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(33)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(16)	Je ne sais pas.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+122 Que faudrait-il faire pour consulter plus directement les citoyens sur l'utilisation de l'argent public, par l'Etat et les collectivités ?
+   Taux réponse 70.6007879186 %
+	plus longue: 26260 caractères	1er quartile 43 | médiane 93 | 3e quartile 178
+
+Exemples (longueur mediane) :
+
+- Information lisible par tous sur tous les supports.
+- RIC révocatoire possible à mi-mandat.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+????
+Plutôt mieux expliquer et imposer des réponses publiques aux avis de la cour des comptes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Achever la décentralisation en misant tout sur les régions qui doivent pouvoir lever l'impôt.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Allez-vous sérieusement retirer le vote du budget de l'agenda du parlement. C'est une blague?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au niveau régional, chaque année établir des comptes-rendus sur ce qui a été fait et dépensé.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(246)	RIC
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(200)	Référendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(131)	référendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(62)	referendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(61)	Referendum
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+123 Quel rôle nos assemblées, dont le Sénat et le Conseil économique, social et environnemental, doivent-elles jouer pour représenter nos territoires et la société civile ?
+   Taux réponse 59.6000218866 %
+	plus longue: 9080 caractères	1er quartile 47 | médiane 97 | 3e quartile 180
+
+Exemples (longueur mediane) :
+
+AUCUN : LAISSER  les territoires s'organiser et leur donner les moyens pour faire ce qu'il faut .
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aller d'avantage sur le terrain , la plupart sont complétement décalés par rapport aux citoyens .
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucun rôle de représentation des territoires, ce sont les assemblées locales qui doivent le faire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucun. On vous a assez vus. Par contre la cour des compte... on ne la voit pas assez, bizarre....
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cette question est bien trop technique. Simplifier ce millefeuille serait peut-être une solution.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(186)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(156)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(106)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(103)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(79)	aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+124 Faut-il les transformer ?
+   Taux réponse 66.6365725542 %
+	Oui
+	*************************************************************************************** 21241 (87.206963 %)
+	Non
+	************* 3116 (12.793037 %)
+
+
+125 Si oui, comment ?
+   Taux réponse 55.2473188882 %
+	plus longue: 12759 caractères	1er quartile 32 | médiane 77 | 3e quartile 154
+
+Exemples (longueur mediane) :
+
+Accelerer la transformation du pays en simplifiant les rouages administratifs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Ces unités ne doivent pas travailler les unes contre les autres mais ensemble
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Changer totalement de système, c'est évident que celui ci ne fonctionne plus.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Changer, remettre "à la page" la Constitution, la moderniser et la simplifier
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Créer une  représentation uniques limités leurs  émoluments et leur  nombre .
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(158)	Les supprimer
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(131)	les supprimer
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(85)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(84)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(82)	Suppression
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+127 Que proposez-vous pour renforcer les principes de la laïcité dans le rapport entre l'Etat et les religions de notre pays ?
+   Taux réponse 69.0057999562 %
+	plus longue: 16517 caractères	1er quartile 58 | médiane 118 | 3e quartile 224
+
+Exemples (longueur mediane) :
+
+- Respect strict (suppression des prières de rues)
+- Retrait de certains jours fériés chrétiens (Pâques, Pentecôte...)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Afficher dans tous les lieux publics une définition simple de la laïcité.
+Faire apprendre aux élèves cette définition.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Affirmer et faire respecter que la loi de la république est au dessus des "lois" religieuses (droit canon, charia,....
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer la loi de 1901   totalement POINT ! 
+Etablir un clergé musulman français (création de facultés de théologie)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer la loi de 1905 toute la loi et ne surtout pas demander aux religions de mettre leurs nez dans cette affaire!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(126)	Rien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(74)	rien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(52)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(35)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(31)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+128 Comment garantir le respect par tous de la compréhension réciproque et des valeurs intangibles de la République ?
+   Taux réponse 66.0811993872 %
+	plus longue: 14695 caractères	1er quartile 43 | médiane 89 | 3e quartile 174
+
+Exemples (longueur mediane) :
+
+Accroître les pouvoirs des médiateurs, déontologues et défenseurs des droits des citoyens
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer la loi. En particulier pour les manifestations non autorisées ou non déclarées.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre le fonctionnement de l'état à l'école et faire des visites des services publics
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir une traduction du coran en français et voir si cela est compatible avec ces valeurs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est d'abord les élus qui doivent montrer l'exemple, je vous retourne donc la question !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(62)	Education
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(61)	Par l'éducation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(39)	L'éducation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(39)	par l'éducation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+129 Que faudrait-il faire aujourd'hui pour renforcer l'engagement citoyen dans la société ?
+   Taux réponse 64.6202670169 %
+	plus longue: 18862 caractères	1er quartile 44 | médiane 88 | 3e quartile 166
+
+Exemples (longueur mediane) :
+
+9a ce fait naturellement selon le caractère et les disponibilités des uns et des autres.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir un projet de société.
+Les programmes politiques sont des programmes comptables....
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Donner du sens en faisant état d'un projet commun .. plutôt que d'une liste d'intentions
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Eh bien c'est en marche non ? Le service social me semble aller dans la bonne direction.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Elle se renforcera quand leur vote sera pris en compte, voir mes commentaires précédents
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(88)	vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(82)	RIC
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(59)	Vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(58)	Rendre le vote obligatoire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(56)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+130 Quels sont les comportements civiques qu'il faut promouvoir dans notre vie quotidienne ou collective ?
+   Taux réponse 64.3877216021 %
+	plus longue: 4935 caractères	1er quartile 35 | médiane 66 | 3e quartile 130
+
+Exemples (longueur mediane) :
+
+Altruisme, responsabilité, conscience sociale et environnementale.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer la devise de la république, liberté, égalité, fraternité
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Attention auprès des personnages âgées.
+Respect des biens publics.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cessons de culpabiliser les victimes et de protéger les agresseurs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Ceux de nos soldats, policiers, gendarmes et pompiers, par exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(126)	Le respect
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(105)	le respect
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(53)	le respect de l'autre
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(51)	Le respect de l'autre
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(44)	Le respect des autres
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+131 Que faudrait-il faire pour favoriser le développement de ces comportements civiques et par quels engagements concrets chacun peut-il y participer ?
+   Taux réponse 55.9996717006 %
+	plus longue: 21289 caractères	1er quartile 44 | médiane 92 | 3e quartile 176
+
+Exemples (longueur mediane) :
+
+- dénoncer les incivilités qui sont une forme de harcèlement à l’encontre de la collectivité
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+1€ sur chaque bulletin de salaire en moins pour créer un fond afin d’aider les plus démunies
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer les lois sans faiblesse, sans se préoccuper d'acheter la paix sociale ou les voix.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter de mentir au français, n’est-ce pas « Monsieur le Président dit Macron le Légitime »
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Bénévolat contraint pour toucher les minimums sociaux. Tout inactif devra exercer des heures
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(77)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(57)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(47)	Education
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(40)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(34)	idem
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+132 Que faudrait-il faire pour valoriser l'engagement citoyen dans les parcours de vie, dans les relations avec l'administration et les pouvoirs publics ?
+   Taux réponse 46.1342744583 %
+	plus longue: 4983 caractères	1er quartile 36 | médiane 80 | 3e quartile 152
+
+Exemples (longueur mediane) :
+
+- creer des réductions d'impôts pour les heures passees au service de la société
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- mise en place d'un service civique généralisé en institutions, en associations
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+-Numerisation et simplification des procedures/demandes. 
+-Plus de transparence.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accorder plus de respect à l'administré, lui garantir des services de proximité.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter de rendre le service public de moins en moins accessible et opérationnel
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(192)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(147)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(119)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(63)	Je ne sais pas.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(57)	idem
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+133 Quelles sont les incivilités les plus pénibles dans la vie quotidienne et que faudrait-il faire pour lutter contre ces incivilités ?
+   Taux réponse 66.5681768439 %
+	plus longue: 9004 caractères	1er quartile 57 | médiane 109 | 3e quartile 197
+
+Exemples (longueur mediane) :
+
+Comportements égoïstes au volant, dans la rue, dans les magasins --> plus de pédagogie et moins de répression
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Dans les transports en commun. les dégradations, la violence. Et les violences contre les femmes dans la rue.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Des rémunérations extravagantes ou des impositions beaucoup trop faibles et toutes les injustices en général.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Des systèmes de retraite si différents, des privilèges pour ceux qui ont un pouvoir de nuisance (gréves,....)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Discrimination salariales à partir d'engagement syndicaux et sociaux et impunis par les nouvelles ordonnances
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(32)	Le manque de respect
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(24)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(21)	le manque de respect
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(18)	toutes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(14)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+134 Que peuvent et doivent faire les pouvoirs publics pour répondre aux incivilités ?
+   Taux réponse 65.8404464872 %
+	plus longue: 7819 caractères	1er quartile 32 | médiane 69 | 3e quartile 138
+
+Exemples (longueur mediane) :
+
+1) Education.
+2) Présence sur le terrain.
+3) Si nécessaire, sanction.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A part l'éducation au départ je ne vois que  la sanction par la suite
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Amendes, travaux d'intérêt général, voire prison pour les plus graves
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aménager les espaces
+mieux éduquer
+police de proximité
+Action sociale
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer des sanctions plus dur sur la base des lois déjà existantes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(100)	Sanctionner
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(82)	sanctionner
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(47)	Appliquer la loi
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(43)	appliquer la loi
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(41)	Appliquer la loi.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+135 Quel pourrait être le rôle de chacun pour faire reculer les incivilités dans la société ?
+   Taux réponse 53.7152549792 %
+	plus longue: 4537 caractères	1er quartile 29 | médiane 61 | 3e quartile 114
+
+Exemples (longueur mediane) :
+
+A chacun de le définir selon les incivilités qu'il rencontre.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Alerte confiée à des représentants de quartiers, d'immeuble..
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aller poser la question aux sociologues ; ils sont là pour çà
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre à vivre avec un minimum d'empathie pour les autres.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre à vivre ensemble et cela commence dès la maternelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(81)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(70)	Montrer l'exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(49)	montrer l'exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(48)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(47)	Donner l'exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+136 Quelles sont les discriminations les plus répandues dont vous êtes témoin ou victime ?
+   Taux réponse 55.2117531188 %
+	plus longue: 6889 caractères	1er quartile 23 | médiane 50 | 3e quartile 108
+
+Exemples (longueur mediane) :
+
+- le racisme
+- l'homophobie
+- le manque de respect
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Actuellement ce sont les islamistes les plus visés
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Agression des femmes
+Contrôle d’identité au facies
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Agression envers les femmes, harcèlement à l'école
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Agression sonores, agression verbales et insultes.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(185)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(177)	Racisme
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(154)	racisme
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(142)	aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(115)	le racisme
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+137 Que faudrait-il faire pour lutter contre ces discriminations et construire une société plus solidaire et plus tolérante ?
+   Taux réponse 54.3937404246 %
+	plus longue: 8891 caractères	1er quartile 38 | médiane 81 | 3e quartile 158
+
+Exemples (longueur mediane) :
+
+35 h pour tous ! salaires équivalents ! tous le monde participe, stop aux ghettos
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accés à l'éducation, information sur les formations permettant l'accés à l'emploi
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aménagement urbain, verbalisation plus importante (stationnement non respectueux)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre à vivre ensemble et accompagner l'apprentissage de la culture française
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprentissage de notre langue, de notre histoire, de notre culture et le respect.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(69)	Education
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(53)	Eduquer
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(50)	éducation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(42)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(40)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+138 Pensez-vous qu'il faille instaurer des contreparties aux différentes allocations de solidarité ?
+   Taux réponse 73.7825563581 %
+	Oui
+	************************************************************************* 19691 (73.013460 %)
+	Non
+	*************************** 7278 (26.986540 %)
+
+
+139 Si oui, lesquelles ?
+   Taux réponse 53.1981834099 %
+	plus longue: 10503 caractères	1er quartile 45 | médiane 88 | 3e quartile 167
+
+Exemples (longueur mediane) :
+
+Actions auprès de la collectivité, qualifiantes, tremplin vers l'emploi, la réinsertion.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Actions citoyennes (nettoyage des bords de route, aide aux personnes âgées, aux démunis)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aides au plus démunis, travail à minima (2j/semaine) dans les communes ou administration
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer un impôt minimum sur les prestations pour que chacun se sente partie prenante.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apporter concrètement une aide à la collectivité sous forme de travaux d'intérêt général
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(61)	Travaux d'intérêt général
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(54)	TIG
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	Travail d'intérêt général
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(40)	travail d'intérêt général
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(30)	travaux d'intérêt général
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+141 Que pensez-vous de la situation de l'immigration en France aujourd'hui et de la politique migratoire ? Quelles sont, selon vous, les critères à mettre en place pour définir la politique migratoire ?
+   Taux réponse 71.5528562049 %
+	plus longue: 10649 caractères	1er quartile 78 | médiane 157 | 3e quartile 286
+
+Exemples (longueur mediane) :
+
+1- apprendre et parler le français
+2- aucun signe religieux extérieur
+3- voile interdit
+4- diplômes
+5- travail
+6-Aides provisoires et limitées dans le temps.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accepter toute personne quelque soit son origine nationale et ethnique qui puisse de par ses compétences ou diplômes, accroitre la compétitivité de la France
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accueillir les demandeurs d'asile, les étudiants étrangers, les étrangers en regroupement familial et les travailleurs étrangers dans les secteurs en tension
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Actuellement je nous trouve un peu trop généreux.
+Critères : 
+=> Langue / Savoir vivre et être.
+=> Connaissance d'un métier.
+=> Immigration choisie en somme.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Ahahah, cela me fait rire. Amèrement. Les frontières n’existent pas. L’espace Schengen est merveilleux dans le sens ou tous les européens sont les bienvenus.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(39)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(30)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(29)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(24)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(24)	Quotas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+142 En matière d'immigration, une fois nos obligations d'asile remplies, souhaitez-vous que nous puissions nous fixer des objectifs annuels définis par le Parlement ?
+   Taux réponse 68.2096738893 %
+	plus longue: 4698 caractères	1er quartile 3 | médiane 32 | 3e quartile 103
+
+Exemples (longueur mediane) :
+
+A définir à l'échelle européenne
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+ABSOLUMENT PAS ! PAS DE QUOTAS !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Attention à la boite de Pandore!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avec l'europe oui , cf plus haut
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C est même un IMPÉRATIF VITAL!!!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(3148)	oui
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(2533)	Oui
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(1073)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(992)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(389)	Oui.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+143 Que proposez-vous afin de répondre à ce défi qui va durer ?
+   Taux réponse 65.0470562486 %
+	plus longue: 6452 caractères	1er quartile 58 | médiane 114 | 3e quartile 209
+
+Exemples (longueur mediane) :
+
+Accueillir les gens en fonction de nos necessites et de leur corps de metier et non aleatoirement. Comme au Canada
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accueillir les migrants dans les logements vide de notre ville (39200 Saint-Claude) en plein déficit démographique
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide au développement économique aux pays d'émigration. Répression terrible des filières d'immigration clandestine
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aider au developpement
+Aider à la scolarité 
+Aider à la vie démocratique
+Aider à la santé 
+Dans les pays d origine
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aider les gouvernements démocratiques des pays en difficultés, toujours en partenariat avec nos voisine européens.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(47)	voir ci-dessus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(40)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(38)	Voir ci-dessus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+144 Quelles sont, selon vous, les modalités d'intégration les plus efficaces et les plus justes à mettre en place aujourd'hui dans la société ?
+   Taux réponse 65.1045086452 %
+	plus longue: 11620 caractères	1er quartile 51 | médiane 101 | 3e quartile 185
+
+Exemples (longueur mediane) :
+
+- obligation d'apprendre le francais et l'histoire de france - sanctionné par un examen de citoyeneté
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accompagner les migrants dans l'intégration (apprentissage de la langue, aide au logement, formation)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre la langue et les règles de la démocratie française avec un examen pour obtenir la citoyenne
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre le Français, éviter de communautarisme géographique, accéléré les démarches administrative.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Apprendre le français, éviter qu'ils se retrouvent tous dans les mêmes cités, favoriser la formation.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(84)	Le travail
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(70)	le travail
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(57)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(48)	L'éducation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(46)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+145 Y a-t-il d'autres points sur la démocratie et la citoyenneté sur lesquels vous souhaiteriez vous exprimer ?
+   Taux réponse 48.5363318013 %
+	plus longue: 78017 caractères	1er quartile 78 | médiane 186 | 3e quartile 396
+
+Exemples (longueur mediane) :
+
+1/ Mettre fin à l'envoi de la propagande papiers lors des élections (économie)  2/ revenir sur le cumul parlementaire/maire 3/ revenir au mandat de 7 ans pour le PR et 5 pour les députés
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Afin de redonner du crédit à nos élus, je souhaiterais que tout élu condamné pour des délits liés des malversations financières dans le cadre de son mandat soit rendu inéligible à vie...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter de parler de croissance pour parler de stabilisation. Remettre en cause le temps devolue au travail pour aller vers une société civile plus investie et ainsi redonner de l’espoir
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter le clivage par âges, classes sociales, groupes sociaux et favoriser les brassages inter culturels, inter quartiers, inter générationnels (exemple: crèches et personnes âgées,....
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+D'une manière générale, s'obliger à parler et communiquer de manière positive et constructive, plutôt que s'enferrer à dédramatiser des points négatifs qui font les choux gras des média.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(694)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(582)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(98)	Non.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(40)	NON
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(32)	-
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+146 Diriez-vous que votre vie quotidienne est aujourd'hui touchée par le changement climatique ?
+   Taux réponse 91.450262223 %
+	Oui
+	***************************************************************** 28145 (65.082669 %)
+	Non
+	*********************************** 15100 (34.917331 %)
+
+
+147 Si oui, de quelle manière votre vie quotidienne est-elle touchée par le changement climatique ?
+   Taux réponse 58.0379800372 %
+	plus longue: 3971 caractères	1er quartile 44 | médiane 83 | 3e quartile 151
+
+Exemples (longueur mediane) :
+
+- réchauffement climatique
+- pollution de l air
+- diminution des espèces d insectes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A cause des évènements climatiques notamment: Canicule, et période de grands froids
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A travers mes factures d'assurances qui augmentent à cause des risques climatiques.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Actuellement non. Mais c est arrivé selon les endroits où je me trouvais sur terre.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Alpinisme,ski, attaque du paysage alpin  donc pour l 'instant c est pas très grave.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(59)	Pollution de l'air
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(51)	pollution de l'air
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(35)	Pollution
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(31)	pollution
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(26)	canicule
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+148 À titre personnel, pensez-vous pouvoir contribuer à protéger l'environnement ?
+   Taux réponse 91.3297242429 %
+	Oui
+	********************************************************************************************** 40462 (93.688061 %)
+	Non
+	****** 2726 (6.311939 %)
+
+
+149 Si oui, que faites-vous aujourd'hui pour protéger l'environnement et/ou que pourriez-vous faire ?
+   Taux réponse 85.3747250888 %
+	plus longue: 11640 caractères	1er quartile 73 | médiane 131 | 3e quartile 227
+
+Exemples (longueur mediane) :
+
+(sur le sujet de cette proposition) Habiter près de mon travail et de mes activités ce qui me permet de ne pas posséder de voiture.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- Pratique du tri sélectif des déchets ménagers
+- Retour à un point de collecte agréé des piles usagées et des médicaments périmés.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- cesser de consommer de l'eau en bouteille
+- diminuer drastiquement les déchets
+- limiter mes déplacements en voiture particulière
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+-tri
+- jardin en bio
+-récupération eau de pluie
+- achats de préférence sur le bon coin
+- achats viandes et légumes en circuit court
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+1) récupérer l'eau de pluie pour arroser son jardin
+2) aucun engrais ou sulfate 
+3) désherbage manuel ou avec des produits naturels
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(40)	Tri des déchets
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(38)	Tri sélectif
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(35)	tri sélectif
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(23)	tri des déchets
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(17)	tri selectif
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+150 Qu'est-ce qui pourrait vous inciter à changer vos comportements comme par exemple mieux entretenir et régler votre chauffage, modifier votre manière de conduire ou renoncer à prendre votre véhicule pour de très petites distances ?
+   Taux réponse 79.5952461512 %
+	plus longue: 7450 caractères	1er quartile 49 | médiane 106 | 3e quartile 206
+
+Exemples (longueur mediane) :
+
+- le véhicule c'est le progrès et ça crée aussi de la valeur.
+- Nous avons aussi acheté un vélo électrique
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Abandonner les véhicules polluants et les déplacements inutiles en priorisant le principe du co voiturage.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide pour isolation du logement, ne pas toucher aux 80 kms/heures (pollution, consommation en diminution).
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide à isoler les bâtiments, à changer de chaufferie, transports en commun bien moins chers voir gratuité.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aménagements pour les vélos 
+Offre de véhicules propres ou moins polluants gpl, e85, électrique, hydrogène
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(205)	Je le fais déjà
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(147)	je le fais déjà
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(139)	Je le fais déjà.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(94)	déjà fait
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(91)	Déjà fait
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+151 Quelles seraient pour vous les solutions les plus simples et les plus supportables sur un plan financier pour vous inciter à changer vos comportements ?
+   Taux réponse 69.3495178481 %
+	plus longue: 55218 caractères	1er quartile 51 | médiane 103 | 3e quartile 198
+
+Exemples (longueur mediane) :
+
+- TVA très réduite sur les produits de premières nécessitées (alimentation), durables, non transformés.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- Viser à terme de 5 ans la gratuité des transports en communs urbains utilisant des moteurs thermiques
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- que les hommes politiques, les financiers, etc. .... montrent l'exemple, ce qu'ils sont loin de faire
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide financière à l'achat de véhicule propre et développement des bornes électriques pour les voitures.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide à l'installation de panneaux solaires, de double vitrages et achat d'une petite voiture electrique
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(67)	aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(67)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(58)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(53)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(52)	rien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+152 Par rapport à votre mode de chauffage actuel, pensez-vous qu'il existe des solutions alternatives plus écologiques ?
+   Taux réponse 87.2145153104 %
+	Oui
+	************************************************************ 24633 (59.727947 %)
+	Non
+	**************************************** 16609 (40.272053 %)
+
+
+153 Si oui, que faudrait-il faire pour vous convaincre ou vous aider à changer de mode de chauffage ?
+   Taux réponse 56.0099813906 %
+	plus longue: 7461 caractères	1er quartile 39 | médiane 79 | 3e quartile 152
+
+Exemples (longueur mediane) :
+
+Accorder la prime écologique en plafonnant les prix fixés par les entrepreneurs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide financiere pour isolation et installation du nouveau systeme de chauffage.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide financières et inciter les installateurs à pratiquer des prix accessibles.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide à l'isolation (la meilleure des énergie est celle que l'on ne dépense pas)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aides financières - Diminution du prix de l'électricité - Développer réseau gaz
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(85)	Aide financière
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(59)	aide financière
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(52)	Une aide financière
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(39)	Rien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(39)	une aide financière
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+154 Avez-vous pour vos déplacements quotidiens la possibilité de recourir à des solutions de mobilité alternatives à la voiture individuelle comme les transports en commun, le covoiturage, l'auto-partage, le transport à la demande, le vélo, etc. ?
+   Taux réponse 90.0312975808 %
+	Oui
+	**************************************** 17194 (40.386151 %)
+	Non
+	*************************************** 16409 (38.542303 %)
+	Je n'utilise pas la voiture pour des déplacements quotidiens
+	********************* 8971 (21.071546 %)
+
+
+155 Si oui, que faudrait-il faire pour vous convaincre ou vous aider à utiliser ces solutions alternatives ?
+   Taux réponse 47.03307393 %
+	plus longue: 8014 caractères	1er quartile 43 | médiane 85 | 3e quartile 165
+
+Exemples (longueur mediane) :
+
+Aide sur l'acquisition du vélo électrique et pourquoi pas une indemnité kilométrique.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Améliorer encore le réseau de pistes cyclables, surtout dans les zones industrielles.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Création d'un réseau de pistes cyclables sécurisées, à l'écart des voitures / camions
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Des horaires convenables avec des transports en commun 24h/24 dans les grandes villes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Des horaires difficiles pour les trains et le fait de récupérer les enfants a l’ecole
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(64)	rien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(57)	Je le fais déjà
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(56)	Je les utilise déjà
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(48)	Rien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(43)	Je les utilise
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+157 Et qui doit selon vous se charger de vous proposer ce type de solutions alternatives ?
+   Taux réponse 71.4790221621 %
+	plus longue: 2965 caractères	1er quartile 18 | médiane 39 | 3e quartile 93
+
+Exemples (longueur mediane) :
+
+A moi de trouver la meilleures solution
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A part le gouvernement, je ne vois pas.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Agglomération , communauté de communes,
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aménagement urbain donc les métropoles.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est a chacun de repenser sa mobilite.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(354)	La région
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(277)	la région
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(247)	Les collectivités locales
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(235)	L'état
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(231)	l'état
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+158 Que pourrait faire la France pour faire partager ses choix en matière d'environnement au niveau européen et international ?
+   Taux réponse 74.6003214346 %
+	plus longue: 35283 caractères	1er quartile 56 | médiane 108 | 3e quartile 201
+
+Exemples (longueur mediane) :
+
+-  Multiplier les réunions, les conférences et les débats régionaux,  nationaux, européens et internationaux
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+-Mettre ses choix en oeuvre le plus rapidement possible , étant donnée la gravité de la situation écologique
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+?...Il faudrait déjà qu'elle partage les choix des pays plus en avance qu'elle en matière d'environnement...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accentuer la recherche pour instaurer de manière pérenne 50 % de nucléaire, 50 % solaire éolien hydraulique.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Agir ! En parler et agir ! Changer, le changement sera le plus bel étendard à travers l'Europe et le Monde !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(307)	Montrer l'exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(207)	montrer l'exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(153)	Donner l'exemple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(110)	Montrer l'exemple.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(105)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+159 Y a-t-il d'autres points sur la transition écologique sur lesquels vous souhaiteriez vous exprimer ?
+   Taux réponse 70.0114193876 %
+	plus longue: 127065 caractères	1er quartile 112 | médiane 223 | 3e quartile 440
+
+Exemples (longueur mediane) :
+
+Aider à la mutation de l'agriculture vers le bio et verser vraiment les aides,
+Empecher le lobby des Mosanto et autres firmes.Renvoyer les politiques verreux .Ne plus donner ces subventions  pour des productions intensives.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aménagements des infrastructures routières,
+Aménagements des infrastructures ferroviaires de transport de fret et de voyageurs.
+Il y a beaucoup beaucoup à faire sur ces deux points qui impactent directement l'environnement.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter le mythe de l'économie du "juste à temps" pour les produits de grandes consommations et à faible valeur ajoutée qui polluent et consomme de l'énergie dans les transports de denrées du nord au sud et d'est en ouest..
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au delà des modes de transport éco-responsables et de leur accessibilité, la part "naturelle" de la fabrication de l'énergie doit être considérablement augmentée (marémotrice, hydraulique, éolienne, photovoltaïque, etc...).
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Comme inscrit dans le titre, limiter les déplacements et créer des emplois en relocalisant le petit commerce de proximité rendu accessible par une fiscalité qui permettrait de pratiquer des prix identiques aux hypermarchés.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(453)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(399)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(40)	La transition écologique doit passer par la fin de l'élevage industriel et par la mise en place de pratiques de production respectueuses des animaux et de l'environnement.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(36)	Non.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(32)	Oui
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+160 Quel est aujourd'hui pour vous le problème concret le plus important dans le domaine de l'environnement ?
+   Taux réponse 94.7491964135 %
+	Les dérèglements climatiques (crue, sécheresse)
+	****************************************** 12485 (42.257573 %)
+	La pollution de l'air
+	****************************** 8820 (29.852767 %)
+	La biodiversité et la disparition de certaines espèces
+	*************************** 7972 (26.982569 %)
+	L'érosion du littoral
+	* 268 (0.907091 %)
+
+	autre 15272
+	plus longue: 23914 caractères	1er quartile 27 | médiane 54 | 3e quartile 97
+
+Exemples (longueur mediane) :
+
+1) dérèglement climatique 2) pollution 3) biodiversité
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A ce niveau pas de priorité, tout est lié et important
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est un peu tout à la fois car pour moi tout est liée
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cesser d'encourager le catastrophisme d'ONG militantes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Consommation d'énergie non renouvelables -> gaspillage
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(470)	
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(104)	Tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(62)	Tout
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(48)	tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(27)	tout
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+161 Que faudrait-il faire selon vous pour apporter des réponses à ce problème ?
+   Taux réponse 89.8346303502 %
+	plus longue: 38546 caractères	1er quartile 94 | médiane 192 | 3e quartile 398
+
+Exemples (longueur mediane) :
+
+A défaut de pouvoir agir sur le dérèglement climatique, agir sur ses conséquences. Revoir les zones inondables (refus de construire). Gestion de l'eau (bassins...) pour palier à la sécheresse.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aider financièrement les travailleurs qui utilisent leurs véhicules pour aller au travail afin qu'ils puissent se déparer de leur véhicule diesel et acheter des véhicules électriques ou autres
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Amorcer un peu de décroissance qui est à mon avis le seul véritable levier efficace et la seule réponse honnête à apporter. Ensuite organiser la société afin de limiter l'impact sur la nature.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Appliquer l'accord COP21 de paris; sanctionner les pays qui ne s'y conforment pas, économiquement et financierement.
+Appliquer l'eco taxe  routière abandonnée , sur le principe pollueur/payeur
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter la prédation humaine considérée comme un loisir qu'est LA CHASSE. Le plaisir du chasseur étant de tuer, il y aura toujours des débordements. Veut on vraiment des printemps silencieux ?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(19)	- Mettre fin à l'agriculture intensive et à l'élevage industriel.
+
+- Favoriser la production responsable (agriculture et élevage biologiques, l'élevage en plein air, l'agroforesterie...) et l'abattage de proximité.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(13)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(10)	Taxer les pollueurs
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(8)	supprimer les pesticides
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(7)	Développer le ferroutage
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+162 Quelles sont toutes les choses qui pourraient être faites pour améliorer l'information des citoyens sur l'utilisation des impôts ?
+   Taux réponse 69.8462818064 %
+	plus longue: 42750 caractères	1er quartile 68 | médiane 123 | 3e quartile 226
+
+Exemples (longueur mediane) :
+
+1/ Une information sur les avis d'imposition et sur impots.gouv.fr. 2/ Un module spécial dans les cours d'éducation civique
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A quoi rime de devoir déclarer un prélèvement de 4 euros sur les intérêts d'un livret d'épargne soumis à la fiscalisation ?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accompagner la déclaration annuelle des recommandations de la Cour des Comptes de l'année précédente avec ce qui a été fait
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accès par internet de TOUTES les dépenses de l´etat comme le publie chaque entreprise et chaque salarié à son employeur !!!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Affichage dans les lieux publics (écoles, hôpitaux, routes, ponts, ...)
+Vidéo explicative lors de la déclaration des impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(51)	Plus de transparence
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	Transparence
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(42)	La transparence
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(37)	plus de transparence
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(36)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+163 Que faudrait-il faire pour rendre la fiscalité plus juste et plus efficace ?
+   Taux réponse 82.7490604399 %
+	plus longue: 39246 caractères	1er quartile 94 | médiane 193 | 3e quartile 389
+
+Exemples (longueur mediane) :
+
+"Travailler" (combattre) les tricheries, l'évasion fiscale en France et à l'étranger (mais c'est encore un "Y qu'à - Faut qu'on" car je sais que ce n'est pas si facile MAIS IL FAUT TOUT FAIRE )
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- Imposer davantage les très riches et les sociétés du cac 40 et arrêter de considérer qu'un couple qui gagne 4000 euros par mois fait parti des 20% les plus riches. 
+- Remettre en place l'ISF.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- arrêter les petites mesurettes (coûteuses au niveau de la mise en oeuvre)
+- impôt proportionnel au revenu, avec exonération aux bas revenus et avec imposition forte aux revenus sup. à 1 M€/an
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+1 tranche d'impot egale et raisonnable pour tout le monde (exemple 16%) plus d'optimisation fiscale qui ne profite qu'aux plus riches seule réduction possible handicap,assistance à la personne.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+1) que chaque entreprise petite ou grande paye les impôts à la source tous les mois.
+2) que l'état récupère les 60 miliard de Fraude fiscale annuelle  et arrêté ses jérémiades sur le déficit...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(41)	Rétablir l'ISF
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(32)	Supprimer les niches fiscales
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(24)	rétablir l'ISF
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(22)	supprimer les niches fiscales
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(22)	Baisser la CSG sur les retraites, à 6.6 %, indexer les retraites sur l’inflation, rétablir l’ISF te la Flat Taxe. Supprimer la taxe d’habitation pour tous.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+164 Quels sont selon vous les impôts qu'il faut baisser en priorité ?
+   Taux réponse 75.9118353767 %
+	plus longue: 42750 caractères	1er quartile 28 | médiane 68 | 3e quartile 152
+
+Exemples (longueur mediane) :
+
+-donner une part fiscale par enfant à charge au lieu d'une demi part
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+1. TVA sur les produits de première nécessité
+2. impôt sur le revenu
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+AUCUN il faut supprimer les niches fiscales, lutter contre la fraude
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Adapter encore plus finement les taux d'imposition selon les revenus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucun par contre, il vaut faire en sorte que tout le monde les paie.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(777)	TVA
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(401)	La TVA
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(336)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(336)	Impôt sur le revenu
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(327)	la TVA
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+165 Quels sont les domaines prioritaires où notre protection sociale doit être renforcée ?
+   Taux réponse 70.0157106771 %
+	plus longue: 22995 caractères	1er quartile 19 | médiane 45 | 3e quartile 111
+
+Exemples (longueur mediane) :
+
+- education des enfants
+-  santé 
+- formation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+-LOGEMENT 
+-RETRAITE INDEXEE SUR l' INFLATION
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accès a des soins de qualité aux plus démunis
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide au logement ,consommation eau et énergie
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide aux familles, aux personnes dépendantes.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(969)	La santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(852)	Santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(671)	la santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(493)	santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(247)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+166 Pour quelle(s) politique(s) publique(s) ou pour quels domaines d'action publique, seriez-vous prêts à payer plus d'impôts ?
+   Taux réponse 70.2436695213 %
+	plus longue: 10959 caractères	1er quartile 19 | médiane 48 | 3e quartile 116
+
+Exemples (longueur mediane) :
+
+- Investissement industriel français 
+- écologie
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+-Assurance maladie, les hôpitaux
+- Les retraites
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+AUCUN . Je pense que je suis suffisamment taxé !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+AUCUN : on est les champions du monde des impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+AUCUNE, TANT QUE L'ETAT NE MONTRE PAS L'EXEMPLE.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(1159)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(891)	aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(856)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(729)	aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(336)	La santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+167 Y a-t-il d'autres points sur les impôts et les dépenses sur lesquels vous souhaiteriez vous exprimer ?
+   Taux réponse 70.1805187604 %
+	plus longue: 55914 caractères	1er quartile 119 | médiane 231 | 3e quartile 463
+
+Exemples (longueur mediane) :
+
+"Réduire" le salaire et les avantages des ministres, députés, anciens présidents ... fixer "un plafond" à ne pas dépasser (en comptant salaire et avantages de toute nature) , rendre effectif et contrôlable le non cumul des mandats.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- Renforcement des contrôles de l'évasion fiscale et des détournements fiscaux des entreprises,
+- Collecte, tri et recyclage des ordures, - Maintien permanent d'un système de consultation civique du type de celui qu'on utilise ici.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Attention à la culture de l' assistanat! J' ai vécu dans une région  où exploiter le système est culturel. Ex : se faire pensionner pour " handicap" ( hernie discale, dépression ,.. ) . Une catastrophe éthique et pour nos finances!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au lieu de distribuer des aides sans contre-partie, remettez les français au travail : le chômage n'est pas un dû. Aider les personnes en difficulté fait partie de notre culture et de nos valeurs, mais ces aides doivent se mériter.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au lieu de parler d'impôts (connotation négative) on devrait parler de CIG Contribution à l'Intérêt Général  (connotation  parlante et positive )
+On a tous besoin de la contribution de chacun pour permettre une meilleure vie à tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(341)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(314)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(33)	Non.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(33)	Il faut réduire le train de vie de l’état, des assemblées, des ministères : revoir les parlementaires, nombre, indemnités et avantages et  pour les ministres, les conseillers, supprimer  les comités « Théodule » qui ne servent qu’à planquer « des copains » avec des salaires indécents, supprimer les niches fiscales, appliquer à la lettre , les recommandations de la cour des comptes….Et la liste est longue !!!
+Supprimer les avantages des anciens présidents !!! Taxer les grosses successions par un barème très progressif, il est anormal que des fils ou filles de famille héritent de fortunes qu’ils n’ont pas créées, surtout que bien souvent, cet argent est douteux, alors, qu’il vienne abonder les caisses de l’état me semble juste !!!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(30)	NON
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+169 Que pensez-vous de l'organisation de l'Etat et des administrations en France ? De quelle manière cette organisation devrait-elle évoluer ?
+   Taux réponse 70.6477430901 %
+	plus longue: 34108 caractères	1er quartile 78 | médiane 173 | 3e quartile 374
+
+Exemples (longueur mediane) :
+
+3 niveaux : l'Etat la Région la Commune      suppression du département  regroupement des communes  de 35000 passer à 10000 communes donc plus besoin d'intercommunautés  ...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au niveau de l'état, trop de pouvoirs concentrés entre les mains du PR. Au niveau des administrations : trop d'administration centrale ; il faudrait plus de décentralisation
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avant que d’émettre des lois, faire des enquêtes sérieuses !
+80km/h alors que les véhicules sont équipés de 5 à 6 vitesses !!
+A 80km/h le véhicule est en surconsommation !!!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est trop compliqué, cela semble faire des doublons au moins partiels : la remise à plat des fonctions a assumer et leur répartition doit encore être plus lisible par tous.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cette organisation est trop lourde et surtout trop opaque. Elle doit être allégée, notamment en central, et bien mieux expliquée à l'école pou que tout le monde la comprenne
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(257)	Il faut revenir sur l’abaissement de la limitation de vitesse à 80 km/h sur le réseau secondaire. Cette mesure a été imposée sans concertation, après une expérimentation biaisée aux résultats peu probants, contre l’avis des Français.
+
+Cela pénalise injustement les conducteurs : temps de trajet rallongés, dépassements dangereux, camions collés aux voitures… Sans parler des radars qui flashent à tout va !
+
+Le Gouvernement doit veiller à l’entretien des routes, au lieu d’y baisser la limitation de vitesse !
+
+Le Gouvernement doit mettre la politique de sécurité routière au service des conducteurs, au lieu d’en faire une politique fiscale et un véritable racket par les radars !
+
+Le Gouvernement doit traiter les conducteurs en citoyens responsables, acteurs indispensables de la sécurité routière : laissez-nous adapter notre vitesse aux conditions de circulation, au lieu de détourner notre attention de la route, en nous obligeant à rouler à une vitesse inutilement réduite, les yeux rivés sur le compteur !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(53)	Il faut revenir sur l’abaissement de la limitation de vitesse à 80 km/h sur le réseau secondaire. Cette mesure a été imposée sans concertation, après une expérimentation biaisée aux résultats peu probants, contre l’avis des Français.
+Cela pénalise injustement les conducteurs : temps de trajet rallongés, dépassements dangereux, camions collés aux voitures… Sans parler des radars qui flashent à tout va !
+Le Gouvernement doit veiller à l’entretien des routes, au lieu d’y baisser la limitation de vitesse !
+Le Gouvernement doit mettre la politique de sécurité routière au service des conducteurs, au lieu d’en faire une politique fiscale et un véritable racket par les radars !
+Le Gouvernement doit traiter les conducteurs en citoyens responsables, acteurs indispensables de la sécurité routière : laissez-nous adapter notre vitesse aux conditions de circulation, au lieu de détourner notre attention de la route, en nous obligeant à rouler à une vitesse inutilement réduite, les yeux rivés sur le compteur !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(49)	Simplification
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(36)	simplification
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(24)	Il faut revenir sur l’abaissement de la limitation de vitesse à 80 km/h sur le réseau secondaire. Cette mesure a été imposée sans concertation, après une expérimentation biaisée aux résultats peu probants, contre l’avis des Français.
+
+Cela pénalise injustement les conducteurs : temps de trajet rallongés, dépassements dangereux, camions collés aux voitures… Sans parler des radars qui flashent à tout va !
+
+Le Gouvernement doit veiller à l’entretien des routes, au lieu d’y baisser la limitation de vitesse !
+
+Le Gouvernement doit mettre la politique de sécurité routière au service des conducteurs, au lieu d’en faire une politique fiscale et un véritable racket par les radars !
+
+Le Gouvernement doit traiter les conducteurs en citoyens responsables, acteurs indispensables de la sécurité routière : laissez-nous adapter notre vitesse aux conditions de circulation, au lieu de détourner notre attention de la route, en nous obligeant à rouler à une vitesse inutilement réduite, les yeux rivés sur le compteur
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+170 Selon vous, l'Etat doit-il aujourd'hui transférer de nouvelles missions aux collectivités territoriales ?
+   Taux réponse 66.541558958 %
+	Oui
+	**************************************************** 13815 (51.604348 %)
+	Non
+	************************************************ 12956 (48.395652 %)
+
+
+171 Si oui, lesquelles ?
+   Taux réponse 33.935673096 %
+	plus longue: 6795 caractères	1er quartile 45 | médiane 93 | 3e quartile 181
+
+Exemples (longueur mediane) :
+
+- L'écologie, la culture, le tourisme, une partie de la sécurité via les polices municipales.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A condition que l'Etat transfère le budget correspondant à ces nouvelles missions............
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aide sociales, aménagement du territoire en matière de transport et de transition écologique.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Ce n'est pas tant d'en transférer de nouvelles que de répartir mieux pour éviter les doublons
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cela dépendra au cas par cas MAIS doit d'accompagner de la dotation financière correspondante
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(39)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(31)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(21)	Tout ce qui n'est pas régalien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(21)	tout ce qui n'est pas régalien
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(16)	Cependant, l'État doit redonner un peu de souveraineté au peuple, par l'intermédiaire du référendum d'initiative citoyenne, par la modification de l'article 11 de la Constitution (en supprimant la mention relative à l'initiative d'un cinquième des membres du Parlement, et en diminuant la proportion des électeurs inscrits sur les listes électorales légitime pour organiser un référendum d'un dixième à deux pour cent)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+172 Si non, quels types de services publics vous manquent dans votre territoire et qu'il est nécessaire de renforcer ?
+   Taux réponse 28.5046728972 %
+	plus longue: 8863 caractères	1er quartile 40 | médiane 93 | 3e quartile 193
+
+Exemples (longueur mediane) :
+
+- le médecin, la distribution journalière du courrier, les services de dépannage du téléphone
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Dans les petites communes les services publics ont disparus surtout et les transports publics
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Désert médical, manque d'hôpitaux, de spécialistes (ophtalmo-cardiologue-psychologue- etc...)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Enseignement de bon niveau (lycées, classes prépas, écoles...) c'est-à-dire similaire à PARIS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Etat civil pour les actes établis à l'étranger : il agit de façon erratique et irresponsable.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(58)	aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(55)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(26)	Santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(20)	Tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(20)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+174 Quels nouveaux services ou quelles démarches souhaitez-vous voir développées sur Internet en priorité ?
+   Taux réponse 39.0211771724 %
+	plus longue: 6795 caractères	1er quartile 37 | médiane 88 | 3e quartile 170
+
+Exemples (longueur mediane) :
+
+- Dépôt des formulaires "tranquillité vacances" pour éviter déplacement au commissariat.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accès à l'utilisation des dépenses publiques. Percevoir à quoi sont utilisés nos impôts.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avant de Développer il faut s'assurer à l'accès et la compréhension pour tous à Internet
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir moins de démarches qu'avec le papier sinon c'est aussi compliqué et insupportable.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Cette question orientée n'a rien à voir avec ma proposition de reforme de l'éducation ?!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(169)	aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(124)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(95)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(93)	aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(80)	Tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+175 Avez-vous déjà utilisé certaines de ces nouvelles formes de services publics ?
+   Taux réponse 68.4728574269 %
+	Non
+	************************************************************************ 19869 (72.125018 %)
+	Oui
+	**************************** 7679 (27.874982 %)
+
+
+176 Si oui, en avez-vous été satisfait ?
+   Taux réponse 21.0727778882 %
+	Oui
+	******************************************************************* 5678 (66.973343 %)
+	Non
+	********************************* 2800 (33.026657 %)
+
+
+177 Quelles améliorations préconiseriez-vous ?
+   Taux réponse 25.129250348 %
+	plus longue: 6795 caractères	1er quartile 46 | médiane 89 | 3e quartile 166
+
+Exemples (longueur mediane) :
+
+Amplitude horaire, prises de rendez-vous par internet (voir les Apple Stores par exemple)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Améliorer les compétences des agents et les jours et horaires d'ouverture de ces services
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune utilité des maisons de service au public car pas de réponse aux véritables besoins
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir des acteurs efficaces, formés et responsables et ne pas avoir à attendre des heures
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir rapidement un interlocuteur au téléphone en cas de question sur l’impôt ou l’URSSAF
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(25)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(16)	aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(16)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(14)	-
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(10)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+178 Quand vous pensez à l'évolution des services publics au cours des dernières années, quels sont ceux qui ont évolué de manière positive ?
+   Taux réponse 50.9395506065 %
+	plus longue: 21687 caractères	1er quartile 15 | médiane 41 | 3e quartile 96
+
+Exemples (longueur mediane) :
+
+0la déclaration des impôts sur internet l
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+??? je vois pas. Je constate un sacrifice
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+AUCUN, vous nous avez oublié (les ruraux)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Administration fiscale, Assurance Maladie
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Ameli /Impôt.fr/état civil/carsat sud est
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(694)	Aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(629)	aucun
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(205)	Les impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(153)	les impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(130)	Impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+179 Quels sont les services publics qui doivent le plus évoluer selon vous ?
+   Taux réponse 51.1060847087 %
+	plus longue: 14765 caractères	1er quartile 20 | médiane 49 | 3e quartile 131
+
+Exemples (longueur mediane) :
+
+- éducation nationale et santé
+- justice
+- police
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accès facile à un guichet à la CAF, à pole emploi
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aretons d’avoir 12 interlocuteurs. 1 seul suffit.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir les mêmes services en ruralité qu'en ville.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+CAF, CPAM, Transport plus nombreux et moins chers
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(403)	Tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(324)	tous
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(80)	Pôle emploi
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(75)	TOUS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(63)	La santé
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+180 Connaissez-vous le "droit à l'erreur", c'est-à-dire le droit d'affirmer votre bonne foi lorsque vous faites un erreur dans vos déclarations ?
+   Taux réponse 69.1638496719 %
+	Oui
+	******************************************************************************** 22167 (79.662905 %)
+	Non
+	******************** 5659 (20.337095 %)
+
+
+181 Si oui, avez-vous déjà utilisé ce droit à l'erreur ?
+   Taux réponse 60.814774309 %
+	Non
+	******************************************************************************************** 22446 (91.739895 %)
+	Oui
+	******** 2021 (8.260105 %)
+
+
+182 Si oui, à quelle occasion en avez-vous fait usage ?
+   Taux réponse 6.9770332074 %
+	plus longue: 6795 caractères	1er quartile 22 | médiane 54 | 3e quartile 126
+
+Exemples (longueur mediane) :
+
+Dans les associations où j'exerce en tant que bénévole
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Erreur lors de la déclaration d'impôts sur les revenus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Erreurs des services des impôts reconnu par le service
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+IMPOTS  sur deux secteurs différents (Dpt 13 + Dpt 92)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Inutile
+Deja appliqué officieusement dans les services
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(31)	Impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(20)	impôts
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(18)	jamais
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(18)	déclaration de revenus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(16)	impots
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+183 Pouvez-vous identifier des règles que l'administration vous a déjà demandé d'appliquer et que vous avez jugées inutiles ou trop complexes ?
+   Taux réponse 33.426128455 %
+	plus longue: 8408 caractères	1er quartile 36 | médiane 94 | 3e quartile 195
+
+Exemples (longueur mediane) :
+
+CMU règles utiles mais lourdes à l'époque des croisements de fichiers, ça devrait être simple.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Chaque administration ignore presque totalement les autres... il manque de la transversalité !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+D'un service à l'autre, redemander 50 fois les mêmes informations.
+Un permis de construire ...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Declaration d'impot, carte vital, carte id, inscription parcoursup , , tout est trop compliqué
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Immatriculation des automobiles de collection et étrangères est un cauchemar unique en Europe.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(408)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(387)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(50)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(49)	aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(42)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+184 Faut-il donner plus d'autonomie aux fonctionnaires de terrain ?
+   Taux réponse 58.9853847683 %
+	Oui
+	*********************************************************************** 16826 (70.903038 %)
+	Non
+	***************************** 6905 (29.096962 %)
+
+
+185 Si oui, comment ?
+   Taux réponse 32.6531119507 %
+	plus longue: 6795 caractères	1er quartile 44 | médiane 80 | 3e quartile 144
+
+Exemples (longueur mediane) :
+
+Arrêter de supprimer des emplois dans la fonction publique car on a besoin d’eux
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter de tout centraliser, avoir des acteurs locaux qui connaissent le terrain
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avec une enveloppe financière personnelle à gérer et obligation de rendre compte
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Avoir un interlocuteur unique pour l’ensemble des demandes ou dossiers à traiter
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est qui les fonctionnaires de terrain ? Pourquoi des fonctionnaires (statut) ?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(57)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(52)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(39)	En les responsabilisant
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(29)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(26)	en les responsabilisant
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+186 Faut-il revoir le fonctionnement et la formation de l'administration ?
+   Taux réponse 59.020182939 %
+	Oui
+	****************************************************************************************** 21356 (89.938935 %)
+	Non
+	********** 2389 (10.061065 %)
+
+
+187 Si oui, comment ?
+   Taux réponse 48.1954662955 %
+	plus longue: 11455 caractères	1er quartile 55 | médiane 108 | 3e quartile 201
+
+Exemples (longueur mediane) :
+
+1.  Adapter l'information,
+2. Remédier au manque de personnel ,
+3. Instaurer concertations et consultations.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accepter et favoriser les démarches de prévention et santé naturelle. Refuser le diktat des labos chimiques.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Adapter les fonctionnements à la réalité du terrain qui est différente selon les usagers et les territoires.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au niveau de la formation : utiliser un langage commun à tous, et non pas un langage purement administratif.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Au service de l'usager . Engie , par ex. ,ex EDF montre la voie . L'accueil et la réponse sont exemplaires .
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(45)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(34)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(30)	Supprimer l'ENA
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(30)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(20)	Suppression de l'ENA
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+188 Comment l'Etat et les collectivités territoriales peuvent-ils s'améliorer pour mieux répondre aux défis de nos territoires les plus en difficulté ?
+   Taux réponse 48.0910717837 %
+	plus longue: 14696 caractères	1er quartile 55 | médiane 109 | 3e quartile 203
+
+Exemples (longueur mediane) :
+
+A voir un services de proximité afin d'aider au mieux les gens. Ceci permettra de recenser les vrais besoins.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accompagner humainement été financièrement la transition. Pour rester sous 1.5°, il va falloir être radicaux.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Amener un service public minimum de proximité. Tout citoyen français a les mêmes droits et les mêmes devoirs.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Améliorer le télétravail. Inciter les entreprises ou les collectivité à s'installer dans des villes moyennes.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter de dépenser se l'argent inutilement. Bien gérer sa masse salariale et faire travailler son personnel.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(38)	Je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(32)	je ne sais pas
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(27)	?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(15)	Sans doute en favorisant l'émergence de coopératives agricoles et artisanales pour rediffuser le produit financier de leur travail dans les territoires ruraux.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(14)	Je ne sais pas.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+189 Y a-t-il d'autres points sur l'organisation de l'Etat et des services publics sur lesquels vous souhaiteriez vous exprimer ?
+   Taux réponse 48.1184132034 %
+	plus longue: 56257 caractères	1er quartile 170 | médiane 460 | 3e quartile 1013
+
+Exemples (longueur mediane) :
+
+-	Education
+   o	  Frais de scolarité réduits et égaux pour tous
+   o	  Liberté et initiatives accrues pour enseignants (programmes, sorties scolaires)
+   o	  Valorisation alternance
+   o	  Promotion projets collectifs
+-	Mandats électoraux
+   o	  Objectifs clairs et précis avant mandat
+   o	  Evaluations annuelles et en fin de mandat
+-	Santé : 
+   o	  Corps d’infirmiers/ères pour premier niveau de diagnostic et soins
+   o	  Prééminence humain sur financier
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- INTERDIRE LES LOBBYS, 
+- ENCADRER LE TRAVAIL DES HAUTS FONCTIONNAIRES QUI LE PLUS SOUVENT DÉCIDENT A LA PLACE DES ELUS
+- SUPPRIMER LES CENTAINES DE COMMISSIONS MINISTÉRIELLES QUI NE SERVENT QU'A PLACER DES "AMIS" D’ÉLUS, exemple : "la Commission interministérielle de coordination des contrôles sur les opérations et les bénéficiaires et redevables relevant des fonds communautaires agricoles de garantie", ou bien "le Comité stratégique du calcul intensif "
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- L'Etat devrait prendre modèle sur les pays du Nord ou les ministres payent leurs taxis, mangent dans un seul ministère et payent leur repas et ou toutes leurs dépenses sont en ligne. L'Etat devrait travailler pour l'interêt général, ce qui n'est pas toujours le cas !
+- En France, nous avons un parlement composé de 577 Députés et 348 Sénateurs. Aux Etats-Unis (16 fois la France) 435 représentant de la chambre basse et 100 Sénateurs. Cherchez l'erreur !!!!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+En ce qui concerne le droit des animaux faire appliquer à la lettre les sanctions prévues par la loi. Interdire les corridas, combats de chiens, de coqs, etc... Interdire la vente des animaux (chiots, chatons, ...) dans les animaleries car ces animaux viennent en grande majorité d'élevages indignes. Interdire les animaux sauvages dans les cirques et les spectacles d'animaux marins (ex : Marineland). Voir pour cela ce qui ce fait en Belgique, Californie....
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Il faut arrêter d’aider le monde entier ! Notre générosité est belle mais à l’heure actuelle où on laisse mourrir non SDF et nos vieux comme des chiens dans des EPAD qui sont des mouroirs il est scandaleux de dépenser des millard pour venir en aide aux autre et aux immigrés. A la place de taper sur les retraites les chômeurs ... arrêtons de financer l’Afrique et les pays du tiers monde. Ayons une politique immigratoire dure! Le Canada peut être un exemple.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(3326)	Il faut revenir sur l’abaissement de la limitation de vitesse à 80 km/h sur le réseau secondaire. Cette mesure a été imposée sans concertation, après une expérimentation biaisée aux résultats peu probants, contre l’avis des Français.
+
+Cela pénalise injustement les conducteurs : temps de trajet rallongés, dépassements dangereux, camions collés aux voitures… Sans parler des radars qui flashent à tout va !
+
+Le Gouvernement doit veiller à l’entretien des routes, au lieu d’y baisser la limitation de vitesse !
+
+Le Gouvernement doit mettre la politique de sécurité routière au service des conducteurs, au lieu d’en faire une politique fiscale et un véritable racket par les radars !
+
+Le Gouvernement doit traiter les conducteurs en citoyens responsables, acteurs indispensables de la sécurité routière : laissez-nous adapter notre vitesse aux conditions de circulation, au lieu de détourner notre attention de la route, en nous obligeant à rouler à une vitesse inutilement réduite, les yeux rivés sur le compteur !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(807)	Il faut revenir sur l’abaissement de la limitation de vitesse à 80 km/h sur le réseau secondaire. Cette mesure a été imposée sans concertation, après une expérimentation biaisée aux résultats peu probants, contre l’avis des Français.
+Cela pénalise injustement les conducteurs : temps de trajet rallongés, dépassements dangereux, camions collés aux voitures… Sans parler des radars qui flashent à tout va !
+Le Gouvernement doit veiller à l’entretien des routes, au lieu d’y baisser la limitation de vitesse !
+Le Gouvernement doit mettre la politique de sécurité routière au service des conducteurs, au lieu d’en faire une politique fiscale et un véritable racket par les radars !
+Le Gouvernement doit traiter les conducteurs en citoyens responsables, acteurs indispensables de la sécurité routière : laissez-nous adapter notre vitesse aux conditions de circulation, au lieu de détourner notre attention de la route, en nous obligeant à rouler à une vitesse inutilement réduite, les yeux rivés sur le compteur !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(169)	Il faut revenir sur l’abaissement de la limitation de vitesse à 80 km/h sur le réseau secondaire. Cette mesure a été imposée sans concertation, après une expérimentation biaisée aux résultats peu probants, contre l’avis des Français.
+
+Cela pénalise injustement les conducteurs : temps de trajet rallongés, dépassements dangereux, camions collés aux voitures… Sans parler des radars qui flashent à tout va !
+
+Le Gouvernement doit veiller à l’entretien des routes, au lieu d’y baisser la limitation de vitesse !
+
+Le Gouvernement doit mettre la politique de sécurité routière au service des conducteurs, au lieu d’en faire une politique fiscale et un véritable racket par les radars !
+
+Le Gouvernement doit traiter les conducteurs en citoyens responsables, acteurs indispensables de la sécurité routière : laissez-nous adapter notre vitesse aux conditions de circulation, au lieu de détourner notre attention de la route, en nous obligeant à rouler à une vitesse inutilement réduite, les yeux rivés sur le compteur
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(132)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(128)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+191 Si vous avez été amené à chercher une formation, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 18.0403658779 %
+	plus longue: 11766 caractères	1er quartile 13 | médiane 84 | 3e quartile 189
+
+Exemples (longueur mediane) :
+
+Anpe formations bidon ne débouchant sur rien ou sur des contrats qui vous exploitent
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+COTISER POUR DES FORMATIONS MAIS REFUSER PAR L EMPLOYEUR ALORS J AI COTISE POUR RIEN
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Difficultés :
+- Trouver une formation adaptée à mes besoins
+- Trouver un financement
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Démarches effectuées seul, Pôle Emploi inefficace voire absent dans cette recherche.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Elles devraient toutes être présentées dans les pôle emploi sans condition préalable
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(137)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(123)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(113)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(102)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(96)	pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+192 Si vous avez été amené à scolariser votre enfant, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 21.932789819 %
+	plus longue: 13457 caractères	1er quartile 30 | médiane 113 | 3e quartile 235
+
+Exemples (longueur mediane) :
+
+2 enfants = 2 écoles = beaucoup de retard
+Les centres aérés également le même problème. Pas de souplesse horaire.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune humanité au niveau académique ou du proviseur. Qu'ils bossent ou pas ils seront payés tel est mon ressenti
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est une chance en France d'avoir un tel système scolaire gratuit, de la maternelle jusqu'aux études supérieures
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Classes à double niveau pendant plusieurs années à cause des fermeture de classes, trop d'élèves dans les classes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Difficilebde trouver des places dans des structures pourbrescolariser des enfants qui ont des parcours difficiles
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(127)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(81)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(76)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(70)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(63)	ras
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+193 Si vous avez été amené à chercher un emploi, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 21.1796579837 %
+	plus longue: 6795 caractères	1er quartile 29 | médiane 101 | 3e quartile 212
+
+Exemples (longueur mediane) :
+
+- pole emploi : incompétence et absence de suivi réel...heureusement que j'ai pu me débrouiller seul.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+A l'époque,  l'ANPE ne proposait pas d'emploi directement lié à ma recherche ni de formation adéquate
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+ANPE : juste bon à faire remplir des dossiers et certainement pas à vous aider à retrouver un emploi.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Accès à Pole emploi facile mais j'ai été choqué de voir mon accompagnement sous-traité à une société.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Anpe incapable de me mettre en relation une entreprise recherchant mon profil et decouvert par hasard
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(110)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(104)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(101)	pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(99)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(88)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+194 Si vous avez été amené à préparer votre retraite, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 25.2932988666 %
+	plus longue: 6795 caractères	1er quartile 40 | médiane 93 | 3e quartile 184
+
+Exemples (longueur mediane) :
+
+A 58 ans difficultés pour connaitre les montants de retraites en fonction de l'age de départ.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Agirc arcco.....documents scannés et réclamés 7 fois !!!alors que le site que tout était OK..
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Beaucoup de documents à fournir, quelques erreurs de calculs, beaucoup d'attente lors des RDV
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est la croix et la bannière pour connaître le montant de sa retraîte avant de la prendre...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+C'est la galère pour réunir tous les bulletins... Par ailleurs ne touchez pas aux retraites !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(109)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(62)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(55)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(49)	Non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	ras
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+195 Si vous avez été amené à demander un remboursement de soins de santé, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 28.3977928017 %
+	plus longue: 11919 caractères	1er quartile 32 | médiane 86 | 3e quartile 180
+
+Exemples (longueur mediane) :
+
+- Généraliser le tiers payant
+- Rembourser les actes de médecines douces et naturelles
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Assurance maladie, facilité de changement de régime inexistante. Aucune communication.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune difficulté sur ce point, facilités de remboursements, réactivité de ma mutuelle
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Bon accompagnement lors d’un renouvellement de carte vitale. Service en ligne opérant.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+CPAM : au top, virage numérique réussi
+MSA : nul, très en retard par rapport à la CPAM
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(257)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(71)	ras
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(46)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(42)	Ras
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(38)	Aucun problème
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+196 Si vous avez été amené à faire une demande d'aide pour une situation de handicap, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 13.862099821 %
+	plus longue: 10008 caractères	1er quartile 10 | médiane 46 | 3e quartile 171
+
+Exemples (longueur mediane) :
+
+Délai +++ (environ 6 mois pour demande a MDPH)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+La MDPH mais il faut bien connaître les aides.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Les handicapes mentaux ne sont pas assez aidés
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+MDPH débordé et traitement dossier très long .
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Simplification et informatisation à poursuivre
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(156)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(141)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(135)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(125)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(122)	pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+198 Si vous avez été amené à créer une entreprise, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 14.0982302645 %
+	plus longue: 6795 caractères	1er quartile 13 | médiane 73 | 3e quartile 177
+
+Exemples (longueur mediane) :
+
+Amélioration constatée, mais un seul et même interlocuteur serait un plus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Bien passé mais il ne faut pas avoir "les deux pieds dans le même sabot "
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Complexité et paperasserie dissuadantes (déclaration et services fiscaux)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Création d'une petite structure très rapide (CCI et Tribunal de Commerce)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Création d’une auto entreprise aisée. Déclaration des revenus moins aisé.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(116)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(103)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(82)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(80)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(71)	pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+199 Si vous avez été amené à recruter du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 11.3292901173 %
+	plus longue: 6795 caractères	1er quartile 12 | médiane 49 | 3e quartile 141
+
+Exemples (longueur mediane) :
+
+Charge sociales rédhibitoires freinant l'embauche
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Inspection du travail : voir paragraphe précédent
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Je dépose mes offres directement dans les écoles.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Le site internet pole emploi pas très fonctionnel
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Pôle emploi n’est pas adapté pour les entreprises
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(113)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(112)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(92)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(81)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(76)	Pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+200 Si vous avez été amené à former du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 8.63243189501 %
+	plus longue: 6795 caractères	1er quartile 4 | médiane 16 | 3e quartile 104
+
+Exemples (longueur mediane) :
+
+Je suis retraité
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Macron démission
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Macron démission
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Pas assez simple
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Pas d'expérience
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(124)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(111)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(109)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(86)	Pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(83)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+201 Si vous avez été amené à rémunérer du personnel, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 10.0715848081 %
+	plus longue: 6795 caractères	1er quartile 10 | médiane 32 | 3e quartile 113
+
+Exemples (longueur mediane) :
+
+Cf supra pour notre emploi aidé.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Charges beaucoup trop importante
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Charges salariales trop élevées.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Complexité des bulletins de paie
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Compta et inspection du travail.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(115)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(107)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(105)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(81)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(77)	Pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+202 Si vous avez été amené à mettre fin à votre activité, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 8.57277788825 %
+	plus longue: 6795 caractères	1er quartile 4 | médiane 17 | 3e quartile 103
+
+Exemples (longueur mediane) :
+
+Aucune difficulté
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune difficulté
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune difficulté
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune difficulté
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune difficulté
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(116)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(111)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(103)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(79)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(74)	Pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+203 Si vous avez été amené à recruter une personne portant un handicap, pouvez-vous indiquer les éléments de satisfaction et/ou les difficultés rencontrés en précisant, pour chaque point, l'administration concernée :
+   Taux réponse 6.30841121495 %
+	plus longue: 6795 caractères	1er quartile 3 | médiane 11 | 3e quartile 14
+
+Exemples (longueur mediane) :
+
+Dsans objet
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Les papiers
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Nonconcerne
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Pas d'avis.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Pas d'idée.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(143)	non
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(127)	Non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(116)	RAS
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(100)	non concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(94)	Pas concerné
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+204 Estimez-vous avoir accès aux services publics dont vous avez besoin ?
+   Taux réponse 71.5475243587 %
+	Oui
+	******************************************************************** 19514 (67.792253 %)
+	Non
+	******************************** 9271 (32.207747 %)
+
+
+205 S'il faut selon vous revoir les conditions d'attribution de certaines aides sociales, lesquelles doivent être concernées ?
+   Taux réponse 67.1354198755 %
+	plus longue: 19654 caractères	1er quartile 50 | médiane 113 | 3e quartile 224
+
+Exemples (longueur mediane) :
+
+- Les aides sociales sont un droit de solidarité, il ne représente qu'une moindre dépense face à l'évasion fiscal
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+AME à supprimer, beaucoup trop de personnes viennent en france pour juste profiter de celà, serait on trop riche?
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+APL pour tous ? peut être dégressive selon les revenus
+Les allocations familliales ? dégressive selon les revenus
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Allocation familiale
+Suppression du rsa
+Aide médicale d'urgence 
+Subvention aux associations d'aide aux migrants.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Allocation familliale, allocation chomage, retraites de la fonction publique (à cotisation égale, retraite égale)
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(451)	Toutes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(319)	toutes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(189)	Aucune
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(189)	Allocations familiales
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(162)	RSA
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+206 Afin de financer les dépenses sociales, faut-il selon vous...
+   Taux réponse 83.117183168 %
+	Revoir les conditions d'attribution de certaines aides sociales
+	****************************************** 16909 (42.365705 %)
+	Augmenter le temps de travail, Revoir les conditions d'attribution de certaines aides sociales
+	**************** 6226 (15.599319 %)
+	Augmenter le temps de travail, Reculer l'âge de la retraite, Revoir les conditions d'attribution de certaines aides sociales
+	************** 5774 (14.466827 %)
+	Reculer l'âge de la retraite, Revoir les conditions d'attribution de certaines aides sociales
+	********* 3658 (9.165163 %)
+	Augmenter le temps de travail
+	**** 1767 (4.427240 %)
+	Augmenter le temps de travail, Reculer l'âge de la retraite
+	**** 1765 (4.422229 %)
+	Reculer l'âge de la retraite
+	**** 1503 (3.765785 %)
+	Augmenter les impôts
+	*** 1240 (3.106835 %)
+	Augmenter les impôts, Revoir les conditions d'attribution de certaines aides sociales
+	* 532 (1.332932 %)
+	Augmenter le temps de travail, Augmenter les impôts, Reculer l'âge de la retraite, Revoir les conditions d'attribution de certaines aides sociales
+	 144 (0.360794 %)
+	Augmenter les impôts, Reculer l'âge de la retraite
+	 122 (0.305672 %)
+	Augmenter les impôts, Reculer l'âge de la retraite, Revoir les conditions d'attribution de certaines aides sociales
+	 102 (0.255562 %)
+	Augmenter le temps de travail, Augmenter les impôts, Revoir les conditions d'attribution de certaines aides sociales
+	 69 (0.172880 %)
+	Augmenter le temps de travail, Augmenter les impôts
+	 66 (0.165364 %)
+	Augmenter le temps de travail, Augmenter les impôts, Reculer l'âge de la retraite
+	 35 (0.087693 %)
+
+	autre 32481
+	plus longue: 11367 caractères	1er quartile 57 | médiane 98 | 3e quartile 159
+
+Exemples (longueur mediane) :
+
+ adapter le départ a la retraite selon la pénibilité du travail et supprimer les régimes spéciaux 
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+- augmentation de la TVA sur les produits de luxe, meilleur échelonnement de l'impôt sur le revenu
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Améliorer Pôle Emploi, qui doit devenir un véritable pourvoyeur d'emploi et créateur d'entreprises
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Améliorer les contrôles. Plafonner les indemnités pour les chômeurs à un certain niveau de revenu.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Arrêter les gaspillages et tenir compte réellement des avis de la Cour des comptes dans ce domaine
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(28)	Taxer les GAFA, limiter le salaire et les avantages des dirigeants de multinationales, les obliger à être domiciliés fiscalement en France.  Lutter contre la fraude et l'évasion fiscale :  80 à 120 milliards \/an, lutter contre la fraude fiscale, la fraude sociale : cartes vitales illégales, réduire l'immigration. réserver le CICE aux seules entreprises qui créent de l'emploi en FRANCE. Imposer davantage les dividendes !! Imposer les français de l’étranger !!
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(26)	Taxer les GAFA, limiter le salaire et les avantages des dirigeants de multinationales, les obliger à être domiciliés fiscalement en France.  Lutter contre la fraude et l'évasion fiscale :  80 à 120 milliards \/an, lutter contre la fraude fiscale, la fraude sociale : cartes vitales illégales, réduire l'immigration. réserver le CICE aux seules entreprises qui créent de l'emploi en FRANCE. Imposer davantage les dividendes !!  Taxer les poids lourds étrangers qui traversent la France chaque jour, nous polluant et dégradant nos routes
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(24)	Lutter contre la fraude et l'évasion fiscale \/ 80 à 120 milliards \/an, lutter VRAIMENT contre la fraude fiscale, la fraude sociale : cartes vitales illégales, réduire l'immigration. réserver le CICE aux seules entreprises qui créent de l'empli en FRANCE.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(21)	Rétablir l'ISF
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(20)	Aller chercher l'argent là où il est (chez les grandes entreprises) et réorienter les dépenses de l'État de manière intelligente et efficace
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+207 Si non, quelles sont les solutions de mobilité alternatives que vous souhaiteriez pouvoir utiliser ?
+   Taux réponse 64.4603282017 %
+	Les transports en commun
+	************************** 6867 (26.306313 %)
+	Le vélo, Les transports en commun
+	************** 3704 (14.189396 %)
+	Le vélo
+	******** 2197 (8.416335 %)
+	Le transport à la demande, Les transports en commun
+	******* 1894 (7.255593 %)
+	Le transport à la demande
+	***** 1435 (5.497242 %)
+	Le covoiturage, Les transports en commun
+	**** 1158 (4.436102 %)
+	Le covoiturage, Le vélo, Les transports en commun
+	**** 1141 (4.370978 %)
+	L'auto partage, Le covoiturage, Le transport à la demande, Le vélo, Les transports en commun
+	**** 975 (3.735060 %)
+	Le transport à la demande, Le vélo, Les transports en commun
+	*** 909 (3.482225 %)
+	Le covoiturage
+	*** 746 (2.857800 %)
+	L'auto partage, Le covoiturage, Le vélo, Les transports en commun
+	** 515 (1.972878 %)
+	L'auto partage
+	** 440 (1.685565 %)
+	Le covoiturage, Le transport à la demande, Les transports en commun
+	** 403 (1.543825 %)
+	L'auto partage, Le vélo, Les transports en commun
+	* 352 (1.348452 %)
+	L'auto partage, Le covoiturage, Les transports en commun
+	* 346 (1.325467 %)
+	L'auto partage, Les transports en commun
+	* 323 (1.237358 %)
+	Le transport à la demande, Le vélo
+	* 323 (1.237358 %)
+	L'auto partage, Le covoiturage, Le transport à la demande, Les transports en commun
+	* 296 (1.133926 %)
+	Le covoiturage, Le vélo
+	* 282 (1.080294 %)
+	Le covoiturage, Le transport à la demande, Le vélo, Les transports en commun
+	* 271 (1.038155 %)
+	L'auto partage, Le covoiturage
+	* 242 (0.927061 %)
+	L'auto partage, Le transport à la demande, Les transports en commun
+	* 217 (0.831290 %)
+	L'auto partage, Le transport à la demande
+	* 178 (0.681888 %)
+	Le covoiturage, Le transport à la demande
+	* 173 (0.662734 %)
+	L'auto partage, Le covoiturage, Le transport à la demande
+	* 156 (0.597610 %)
+	L'auto partage, Le transport à la demande, Le vélo, Les transports en commun
+	* 149 (0.570794 %)
+	L'auto partage, Le vélo
+	 127 (0.486515 %)
+	L'auto partage, Le covoiturage, Le vélo
+	 112 (0.429053 %)
+	L'auto partage, Le transport à la demande, Le vélo
+	 81 (0.310297 %)
+	L'auto partage, Le covoiturage, Le transport à la demande, Le vélo
+	 49 (0.187711 %)
+	Le covoiturage, Le transport à la demande, Le vélo
+	 43 (0.164726 %)
+
+	autre 8496
+	plus longue: 7577 caractères	1er quartile 20 | médiane 48 | 3e quartile 93
+
+Exemples (longueur mediane) :
+
+A des tarifs abordables et des horaires adaptés 
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Acquérir une voiture électrique et sans permis !
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucun, éventullement et ponctuellement le train.
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucun. Mon mode actuel me convient parfaitement 
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+Aucune ! A part utiliser un attelage à cheval...
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
+Les 5 plus fréquentes :
+
+(91)	la marche
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(56)	La marche
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(46)	La marche à pied
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(46)	la marche à pied
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+(45)	le train
+	-+*-+*-+*-+*-+*-+*-+*-+*-+*-+*
+
+
