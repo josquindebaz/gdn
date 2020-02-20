@@ -40,7 +40,7 @@ def to_p1(entry, radical):
     day_time = re.split(" ", entry[u'createdAt'])
     date = re.split('-', day_time[0])
     namebase = "%s_%s_"%(radical, entry['reference'])
-    namebase += "%s%s%s%sx-"%(date[0][2:4],
+    namebase += "%s%s%s%s-"%(date[0][2:4],
                              date[1],
                              date[2],
                              day_time[1][:2])
